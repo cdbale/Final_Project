@@ -1,5 +1,5 @@
 # Final Project
-### Cameron Bale, Neil Duzett, Ryan Gardner
+### Cameron Bale & Neil Duzett
 
 #### What is our problem?
 Every year during March Madness, millions of brackets are filled out and submitted with the hope of correctly predicting the outcome of tournament games. The American Gaming Association estimated that 70 million brackets would be filled out to total $10.4 billion overall in bets in 2017.<sup>1</sup> However, no one has predicted all the games in the tournament perfectly. This is a perfect problem to attempt to solve with machine learning, and it has been done before by Alex Tran and Adam Ginzberg at Stanford University in 2014.<sup>2</sup> Our goal will be to create a machine learning algorithm that, at a minimum, performs better than the best bracket submitted by a human, and hopefully will predict the entire tournament correctly.
